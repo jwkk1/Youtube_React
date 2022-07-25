@@ -1,7 +1,14 @@
 .container {
-  width: 50%;
   cursor: pointer;
   padding: 0.2em;
+}
+
+.grid {
+  width: 50%;
+}
+
+.list {
+  width: 100%;
 }
 
 .video {
