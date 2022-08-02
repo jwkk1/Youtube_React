@@ -16,17 +16,17 @@
 
 #### 1. 메인화면
 
-![메인화면](../main/public/image/main.png)
+![메인화면](../main/public/images/main.png)
 
 #### 2. 영상 재생
 
-![영상 재생](../main/public/image/vidieo.png)
+![영상 재생](../main/public/images/vidieo.png)
 
 #### 3. 영상 검색
 
-![기본 정보 입력](../main/public/image/search.gif)
+![기본 정보 입력](../main/public/images/search.gif)
 
 #### 4. 반응형 웹
 
-![모바일 청첩장](../main/public/image/responsive.gif)
+![모바일 청첩장](../main/public/images/responsive.gif)
 2
